@@ -118,6 +118,9 @@ THE SOFTWARE.
     <pluginRepository>
       <id>repo.jenkins-ci.org</id>
       <url>https://repo.jenkins-ci.org/public/</url>
+      <id>maven1</id>
+		<name>Maven.org</name>
+		<url>http://repo1.maven.org/maven2</url>
     </pluginRepository>
   </pluginRepositories>
 
